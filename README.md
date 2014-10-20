@@ -1,4 +1,5 @@
-=== Guestful :: Module :: Facebook Client ===
+Guestful :: Module :: Facebook Client
+===
 
 And in your POM:
 
