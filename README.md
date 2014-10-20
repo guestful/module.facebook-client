@@ -1,5 +1,5 @@
 Guestful :: Module :: Facebook Client
-====
+=====================================
 
 And in your POM:
 
